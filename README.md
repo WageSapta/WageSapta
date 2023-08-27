@@ -7,5 +7,3 @@ I'm Wage, a mobile app developer specializing in Flutter.
 - 💬 Ask me about Flutter and mobile app development.
 - 📫 How to reach me: IG:@sp.wgee , Linkedin:Wage Sapta
 - ⚡ Fun fact: I love music
-
-![Flutter Logo](https://example.com/path-to-your-image.png)
