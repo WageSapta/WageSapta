@@ -1,2 +1,11 @@
-Hi there👋
-I'm Flutter Developer
+# Hi there! 👋
+
+I'm [Wage], a mobile app developer specializing in Flutter.
+
+- 🔭 I’m currently working on Flutter projects.
+- 🌱 I’m currently learning [specific topic].
+- 💬 Ask me about Flutter and mobile app development.
+- 📫 How to reach me: [LinkedIn], [Twitter]
+- ⚡ Fun fact: [Interesting fact]
+
+![Flutter Logo](https://example.com/path-to-your-image.png)
