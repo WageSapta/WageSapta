@@ -13,16 +13,15 @@ I am a passionate software developer with a knack for problem-solving and a love
 ## 🚀 Projects
 
 Here are some of the projects I'm proud of:
-- **[Project 1](https://github.com/WageSapta/Caraka):** Main website for Caraka Studio.
-- **[Project 3](https://github.com/WageSapta/Caraka-Invitation):** Wesbite invitation online.
-- **[Project 2](https://github.com/WageSapta/Admin-Caraka-Invitation):** Admin website for Caraka Invitation.
+- **[Caraka](https://github.com/WageSapta):** Main website for Caraka Studio.
+- **[Caraka Invitation](https://github.com/WageSapta):** Wesbite invitation online.
+- **[Admin Caraka Invitation](https://github.com/WageSapta):** Admin website for Caraka Invitation.
 
 ## 🌱 Currently Learning
 
 I am currently focused on improving my skills in:
 - Advanced algorithms and data structures
-- Cloud computing with AWS and Azure
-- Machine learning and artificial intelligence
+- Animation website
 
 ## 📫 How to Reach Me
 
