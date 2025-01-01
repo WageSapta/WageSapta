@@ -35,12 +35,6 @@ Feel free to reach out to me through the following channels:
 ![WageSapta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WageSapta&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WageSapta&layout=compact&theme=radical)
 
-## 🏆 Achievements
-
-- **Open Source Contributor:** Contributed to several open source projects.
-- **Speaker:** Presented at various tech conferences and meetups.
-- **Hackathon Winner:** Won several hackathons in different domains.
-
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just have a chat.
 
 ![Visitor Count](https://profile-counter.glitch.me/WageSapta/count.svg)
