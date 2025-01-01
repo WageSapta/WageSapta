@@ -6,17 +6,16 @@
 ## 👨‍💻 About Me
 
 I am a passionate software developer with a knack for problem-solving and a love for learning new technologies. My main areas of expertise include:
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow
-- **DevOps:** Docker, Kubernetes, CI/CD
+- **Programming Languages:** Javascript, Dart, Php
+- **Web Development:** HTML, CSS, React, Node.js, Go
+- **DevOps:** CI/CD
 
 ## 🚀 Projects
 
 Here are some of the projects I'm proud of:
-- **[Project 1](https://github.com/WageSapta/project1):** A brief description of what this project does.
-- **[Project 2](https://github.com/WageSapta/project2):** A brief description of what this project does.
-- **[Project 3](https://github.com/WageSapta/project3):** A brief description of what this project does.
+- **[Project 1](https://github.com/WageSapta/Caraka):** Main website for Caraka Studio.
+- **[Project 3](https://github.com/WageSapta/Caraka-Invitation):** Wesbite invitation online.
+- **[Project 2](https://github.com/WageSapta/Admin-Caraka-Invitation):** Admin website for Caraka Invitation.
 
 ## 🌱 Currently Learning
 
@@ -28,9 +27,9 @@ I am currently focused on improving my skills in:
 ## 📫 How to Reach Me
 
 Feel free to reach out to me through the following channels:
-- **Email:** WageSapta@example.com
+- **Email:** wagesapta333@gmail.com
 - **LinkedIn:** [WageSapta](https://www.linkedin.com/in/WageSapta/)
-- **Twitter:** [@WageSapta](https://twitter.com/WageSapta)
+- **Instagram:** [@WageSapta](https://instagram.com/sp.yum)
 
 ## 📊 GitHub Stats
 
