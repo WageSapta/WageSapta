@@ -15,7 +15,7 @@ I am a passionate software developer with a knack for problem-solving and a love
 Here are some of the projects I'm proud of:
 - **[Caraka](https://github.com/WageSapta):** Main website for Caraka Studio.
 - **[Caraka Invitation](https://caraka-invitation.com):** Website invitation online.
-- **[Chat App](https://github.com/WageSapta):** Website invitation online.
+- **[Chatopia Chat App](https://github.com/WageSapta):** Chat Application.
 
 ## 🌱 Currently Learning
 
