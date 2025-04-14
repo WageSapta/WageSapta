@@ -13,7 +13,7 @@ I am a passionate software developer with a knack for problem-solving and a love
 ## 🚀 Projects
 
 Here are some of the projects I'm proud of:
-- **[Caraka](https://github.com/WageSapta):** Main website for Caraka Studio.
+- **[Caraka](https://caraka.io):** Main website for Caraka Studio.
 - **[Caraka Invitation](https://caraka-invitation.com):** Website invitation online.
 - **[Chatopia Chat App](https://github.com/WageSapta):** Chat Application.
 
@@ -27,8 +27,8 @@ I am currently focused on improving my skills in:
 
 Feel free to reach out to me through the following channels:
 - **Email:** wagesapta333@gmail.com
-- **LinkedIn:** [WageSapta](https://www.linkedin.com/in/WageSapta/)
-- **Instagram:** [@WageSapta](https://instagram.com/sp.yum)
+- **LinkedIn:** [wagekusuma](https://www.linkedin.com/in/wagekusuma)
+- **Instagram:** [@sp.yum](https://instagram.com/sp.yum)
 
 ## 📊 GitHub Stats
 
