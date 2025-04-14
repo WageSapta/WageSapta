@@ -1,4 +1,4 @@
-# Hi there, I'm WageSapta 👋
+# Hi there, I'm Wage Kusuma 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/WageSapta?label=Follow&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/WageSapta?affiliations=OWNER%2CCOLLABORATOR&style=social)
