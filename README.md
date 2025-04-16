@@ -13,10 +13,10 @@ I am a passionate software developer with a knack for problem-solving and a love
 ## 🚀 Projects
 
 Here are some of the projects I'm proud of:
-- **[Chatopia](https://github.com/WageSapta):** Chat Application created with flutter.
-- **[Calculator](https://github.com/WageSapta):** Calculator Application created with flutter.
+- **[Chatopia](https://github.com/WageSapta/Chatopia-Chat):** Chat App created with flutter.
+- **[Calculator](https://github.com/WageSapta/Calculator-App):** Calculator App created with flutter.
 - **[Caraka](https://caraka.io):** Main website for Caraka Studio.
-- **[Caraka Invitation](https://caraka-invitation.com):** Website invitation online.
+- **[Caraka Invitation](https://caraka-invitation.com):** Website Invitation Online.
 
 ## 🌱 Currently Learning
 
