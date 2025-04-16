@@ -6,14 +6,15 @@
 ## 👨‍💻 About Me
 
 I am a passionate software developer with a knack for problem-solving and a love for learning new technologies. My main areas of expertise include:
-- **Programming Languages:** Javascript, Dart, Php
-- **Web Development:** HTML, CSS, React, Node.js, Go
+- **Programming Languages:** HTML, Javascript, Dart, Php
+- **Frameworks:** Next.js, Laravel, Angular
 - **DevOps:** CI/CD
 
 ## 🚀 Projects
 
 Here are some of the projects I'm proud of:
-- **[Chatopia](https://github.com/WageSapta):** Chat Application.
+- **[Chatopia](https://github.com/WageSapta):** Chat Application created with flutter.
+- **[Calculator](https://github.com/WageSapta):** Calculator Application created with flutter.
 - **[Caraka](https://caraka.io):** Main website for Caraka Studio.
 - **[Caraka Invitation](https://caraka-invitation.com):** Website invitation online.
 
