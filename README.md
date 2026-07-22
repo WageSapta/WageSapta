@@ -34,16 +34,6 @@ fun_fact: "I build tools so you never accidentally leak API keys on live streams
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=WageSapta&theme=tokyonight&margin-w=15&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ### 🛡️ Featured Project
 
 <div align="center">
