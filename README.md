@@ -81,17 +81,15 @@ _Keep your credentials safe from live streams, screen shares, and pair-programmi
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Contribution Graph
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WageSapta&theme=tokyonight" alt="Wage's Profile Details" />
+  <a href="https://github.com/WageSapta">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WageSapta&theme=tokyo-night&area=true&hide_border=true" alt="Wage Sapta Activity Graph" width="100%" />
+  </a>
 
   <br />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WageSapta&theme=tokyonight" alt="Wage's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WageSapta&theme=tokyonight" alt="Languages Breakdown" />
-
   <br />
 
   <img src="https://streak-stats.demolab.com/?user=WageSapta&theme=tokyonight" alt="GitHub Streak" />
