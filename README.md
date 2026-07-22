@@ -1,8 +1,8 @@
 <div align="center">
 
   <!-- Animated Header Banner / Title -->
-  <a href="https://github.com/wagekusuma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%90%8B+I'm+Wage+Kusuma;Building+Stream-Safe+DevTools;Creator+of+DotCloak+%F0%9F%9E%A1%EF%B8%8F;Passionate+Full-Stack+Dev+%E2%9C%A8" alt="Typing SVG" />
+  <a href="https://github.com/WageSapta">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%90%8B+I'm+Wage+Sapta;Building+Stream-Safe+DevTools;Creator+of+DotCloak+%F0%9F%9E%A1%EF%B8%8F;Passionate+Full-Stack+Dev+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -10,8 +10,8 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/wagekusuma?tab=followers"><img src="https://img.shields.io/github/followers/wagekusuma?style=for-the-badge&logo=github&color=6366f1" alt="Followers" /></a>
-    <a href="https://github.com/wagekusuma"><img src="https://img.shields.io/github/stars/wagekusuma?style=for-the-badge&logo=github&color=ec4899" alt="Stars" /></a>
+    <a href="https://github.com/WageSapta?tab=followers"><img src="https://img.shields.io/github/followers/WageSapta?style=for-the-badge&logo=github&color=6366f1" alt="Followers" /></a>
+    <a href="https://github.com/WageSapta"><img src="https://img.shields.io/github/stars/WageSapta?style=for-the-badge&logo=github&color=ec4899" alt="Stars" /></a>
     <a href="https://ko-fi.com/wagekusuma"><img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi" /></a>
   </p>
 
@@ -21,7 +21,7 @@
 ### 🌟 About Me
 
 ```yaml
-user: wagekusuma
+user: WageSapta
 role: Full-Stack Engineer & DevTools Creator
 focus:
   - VS Code Extensions & Streaming Protection
@@ -80,12 +80,12 @@ fun_fact: "I build tools so you never accidentally leak API keys on live streams
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagekusuma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Wage's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagekusuma&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WageSapta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Wage's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WageSapta&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagekusuma&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WageSapta&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
@@ -100,6 +100,6 @@ fun_fact: "I build tools so you never accidentally leak API keys on live streams
 
   <br />
 
-  <sub>Designed with ❤️ & TypeScript by <strong>Wage Kusuma</strong></sub>
+  <sub>Designed with ❤️ & TypeScript by <strong>Wage Sapta</strong></sub>
 
 </div>
