@@ -50,7 +50,7 @@ def svg(width, height, label, body):
 def panel(width, height, title, meta=None, rx=12):
     """Dark rounded window with a title bar, matching the other cards."""
     dots = "".join(
-        f'<circle cx="{20 + i * 16}" cy="{BAR_H / 2}" r="4.5" fill="{color}"/>'
+        f'<circle cx="{20 + i * 16}" cy="{num(BAR_H / 2)}" r="4.5" fill="{color}"/>'
         for i, color in enumerate(DOTS)
     )
     bar = (
@@ -61,12 +61,12 @@ def panel(width, height, title, meta=None, rx=12):
     meta_text = (
         ""
         if meta is None
-        else f'<text x="{num(width - 14)}" y="{BAR_H / 2 + 4}" text-anchor="end" '
+        else f'<text x="{num(width - 14)}" y="{num(BAR_H / 2 + 4)}" text-anchor="end" '
         f'font-family="{MONO}" font-size="11" fill="{MUTED}">{esc(meta)}</text>'
     )
     return (
         f'<rect x="0.5" y="0.5" width="{num(width - 1)}" height="{num(height - 1)}" '
         f'rx="{rx}" fill="{BG}" stroke="{BORDER}"/>\n{bar}\n{dots}\n'
-        f'<text x="{20 + 3 * 16 + 8}" y="{BAR_H / 2 + 4}" font-family="{MONO}" '
+        f'<text x="{20 + 3 * 16 + 8}" y="{num(BAR_H / 2 + 4)}" font-family="{MONO}" '
         f'font-size="11" fill="{MUTED}">{esc(title)}</text>{meta_text}'
     )
