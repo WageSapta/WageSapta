@@ -1,0 +1,34 @@
+{
+  "github_user": "WageSapta",
+  "prompt": "wage@github ~",
+  "portrait": {
+    "source": "assets/source-prepped.png",
+    "output": "wage-ascii.svg",
+    "label": "~/portrait",
+    "cols": 104,
+    "display_width": 370
+  },
+  "card": {
+    "output": "info-card.svg",
+    "label": "~/whoami",
+    "display_width": 490,
+    "title": "wage@github",
+    "subtitle": "zsh · Jember, East Java",
+    "rows": [
+      { "key": "Now", "value": "Full Stack Developer @ Sogee" },
+      { "key": "Prev", "value": "Flutter Developer @ Ronstudio" },
+      { "key": "Stack", "value": "Flutter · Go · Laravel · Next.js" },
+      { "key": "Infra", "value": "Docker · Linux VPS · CI/CD" },
+      { "key": "Shipped", "value": "DotCloak · Nakilaundry · Chatopia" },
+      { "key": "Focus", "value": "DevTools · real-time apps · UX" },
+      { "key": "Exp", "value": "5+ years full-stack & mobile" },
+      { "key": "Site", "value": "wagekusuma.my.id" }
+    ]
+  },
+  "heatmap": {
+    "data": "data/contributions.json",
+    "output": "contrib-heatmap.svg",
+    "label": "~/contributions",
+    "width": 860
+  }
+}
