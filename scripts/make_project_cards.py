@@ -26,6 +26,8 @@ TITLE_FONT = 15
 
 
 def build(project, width, height, static):
+    narrow = width < 320
+    subtitle_fs = 11 if narrow else FONT
     header = BAR_H + 28
     desc_y = header + 20
     stack_y = desc_y + 20
@@ -41,7 +43,7 @@ def build(project, width, height, static):
             if meta
             else ""
         ),
-        f'<text x="{PAD_X}" y="{desc_y}" font-family="{MONO}" font-size="{FONT}" '
+        f'<text x="{PAD_X}" y="{desc_y}" font-family="{MONO}" font-size="{subtitle_fs}" '
         f'fill="{FG}">{esc(project["subtitle"])}</text>',
     ]
 
@@ -56,7 +58,7 @@ def build(project, width, height, static):
         )
         stack_y += 20
 
-    prompt = f"{project['prompt']} $ open . --in-browser"
+    prompt = f"{project['prompt']} $ open ." if narrow else f"{project['prompt']} $ open . --in-browser"
     lines.append(
         f'<text x="{PAD_X}" y="{num(height - 12)}" font-family="{MONO}" font-size="11" '
         f'fill="{MUTED}">{esc(prompt)}</text>'

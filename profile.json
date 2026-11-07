@@ -36,7 +36,7 @@
       "stack": "Next.js · Laravel · Flutter",
       "origin": "🇺🇸 United States",
       "meta": "live",
-      "width": 430,
+      "width": 280,
       "height": 144
     },
     {
@@ -49,7 +49,20 @@
       "stack": "Laravel",
       "origin": "🇮🇩 Indonesia",
       "meta": "live",
-      "width": 430,
+      "width": 280,
+      "height": 144
+    },
+    {
+      "url": "https://dotcloak.wagekusuma.my.id",
+      "output": "project-dotcloak.svg",
+      "label": "~/projects/dotcloak",
+      "prompt": "wage@github",
+      "title": "dotcloak",
+      "subtitle": "Privacy & identity cloaking",
+      "stack": "VS Code extension",
+      "origin": "🇮🇩 Indonesia",
+      "meta": "live",
+      "width": 280,
       "height": 144
     }
   ],
