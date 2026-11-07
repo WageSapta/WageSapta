@@ -87,7 +87,8 @@ def build(project, width, height, static):
 def main():
     cfg = load_config()
     static = frozen()
-    for project in cfg["projects"]:
+    works = cfg.get("works") or cfg.get("projects")
+    for project in works:
         width = float(project["width"])
         height = float(project["height"])
         path = resolve(project["output"])

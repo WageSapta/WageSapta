@@ -25,11 +25,11 @@
       { "key": "Site", "value": "wagekusuma.my.id" }
     ]
   },
-  "projects": [
+  "works": [
     {
       "url": "https://nakilaundry.com",
       "output": "project-nakilaundry.svg",
-      "label": "~/projects/nakilaundry",
+      "label": "~/works/nakilaundry",
       "prompt": "wage@github",
       "title": "nakilaundry.com",
       "subtitle": "Same-day laundry pickup & delivery",
@@ -42,7 +42,7 @@
     {
       "url": "https://caraka.io",
       "output": "project-caraka.svg",
-      "label": "~/projects/caraka",
+      "label": "~/works/caraka",
       "prompt": "wage@github",
       "title": "caraka.io",
       "subtitle": "Premium design assets marketplace",
@@ -55,7 +55,7 @@
     {
       "url": "https://dotcloak.wagekusuma.my.id",
       "output": "project-dotcloak.svg",
-      "label": "~/projects/dotcloak",
+      "label": "~/works/dotcloak",
       "prompt": "wage@github",
       "title": "dotcloak",
       "subtitle": "Privacy & identity cloaking",
