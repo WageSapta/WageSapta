@@ -17,7 +17,7 @@
     "rows": [
       { "key": "Now", "value": "Full Stack Developer @ Sogee" },
       { "key": "Prev", "value": "Flutter Developer @ Ronstudio" },
-      { "key": "Stack", "value": "Flutter · Go · Laravel · Next.js" },
+      { "key": "Stack", "value": "Flutter · Next.js · Laravel" },
       { "key": "Infra", "value": "Docker · Linux VPS · CI/CD" },
       { "key": "Shipped", "value": "DotCloak · Nakilaundry · Chatopia" },
       { "key": "Focus", "value": "Pixel perfect · fast loading · robustness" },
