@@ -15,4 +15,15 @@
 </tr>
 </table>
 
+<br><br>
+
+<h3><code>wage@github ~ $ ls ~/selected-projects</code></h3>
+
+<table>
+<tr>
+<td valign="top"><a href="https://nakilaundry.com"><img src="./project-nakilaundry.svg" width="430" alt="Selected project: nakilaundry.com — same-day laundry pickup and delivery (click to open)" /></a></td>
+<td valign="top"><a href="https://caraka.io"><img src="./project-caraka.svg" width="430" alt="Selected project: caraka.io — premium design assets marketplace (click to open)" /></a></td>
+</tr>
+</table>
+
 </div>

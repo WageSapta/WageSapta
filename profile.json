@@ -25,6 +25,32 @@
       { "key": "Site", "value": "wagekusuma.my.id" }
     ]
   },
+  "projects": [
+    {
+      "url": "https://nakilaundry.com",
+      "output": "project-nakilaundry.svg",
+      "label": "~/projects/nakilaundry",
+      "prompt": "wage@github",
+      "title": "nakilaundry.com",
+      "subtitle": "Same-day laundry pickup & delivery",
+      "stack": "Web app · iOS & Android",
+      "meta": "live",
+      "width": 430,
+      "height": 124
+    },
+    {
+      "url": "https://caraka.io",
+      "output": "project-caraka.svg",
+      "label": "~/projects/caraka",
+      "prompt": "wage@github",
+      "title": "caraka.io",
+      "subtitle": "Premium design assets marketplace",
+      "stack": "UI kits · Figma templates",
+      "meta": "live",
+      "width": 430,
+      "height": 124
+    }
+  ],
   "heatmap": {
     "data": "data/contributions.json",
     "output": "contrib-heatmap.svg",
