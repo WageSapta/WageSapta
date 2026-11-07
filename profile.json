@@ -33,10 +33,11 @@
       "prompt": "wage@github",
       "title": "nakilaundry.com",
       "subtitle": "Same-day laundry pickup & delivery",
-      "stack": "Web app · iOS & Android",
+      "stack": "Next.js · Laravel · Flutter",
+      "origin": "🇺🇸 United States",
       "meta": "live",
       "width": 430,
-      "height": 124
+      "height": 144
     },
     {
       "url": "https://caraka.io",
@@ -45,10 +46,11 @@
       "prompt": "wage@github",
       "title": "caraka.io",
       "subtitle": "Premium design assets marketplace",
-      "stack": "UI kits · Figma templates",
+      "stack": "Laravel",
+      "origin": "🇮🇩 Indonesia",
       "meta": "live",
       "width": 430,
-      "height": 124
+      "height": 144
     }
   ],
   "heatmap": {
