@@ -29,6 +29,7 @@ def build(project, width, height, static):
     header = BAR_H + 28
     desc_y = header + 20
     stack_y = desc_y + 20
+    keys = [("stack:", project.get("stack")), ("origin:", project.get("origin"))]
 
     meta = project.get("meta")
     lines = [
@@ -44,13 +45,16 @@ def build(project, width, height, static):
         f'fill="{FG}">{esc(project["subtitle"])}</text>',
     ]
 
-    stack_prefix = "stack:"
-    lines.append(
-        f'<text x="{PAD_X}" y="{stack_y}" font-family="{MONO}" font-size="11" '
-        f'fill="{KEY}">{esc(stack_prefix)}</text>'
-        f'<text x="{PAD_X + len(stack_prefix) * 7.2 + 7}" y="{stack_y}" font-family="{MONO}" '
-        f'font-size="11" fill="{MUTED}">{esc(project["stack"])}</text>'
-    )
+    for key, value in keys:
+        if not value:
+            continue
+        lines.append(
+            f'<text x="{PAD_X}" y="{stack_y}" font-family="{MONO}" font-size="11" '
+            f'fill="{KEY}">{esc(key)}</text>'
+            f'<text x="{PAD_X + len(key) * 7.2 + 7}" y="{stack_y}" font-family="{MONO}" '
+            f'font-size="11" fill="{MUTED}">{esc(value)}</text>'
+        )
+        stack_y += 20
 
     prompt = f"{project['prompt']} $ open . --in-browser"
     lines.append(
