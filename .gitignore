@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+
+# portra source photos (not for public)
+assets/source-photo.png
+assets/source-prepped.png
