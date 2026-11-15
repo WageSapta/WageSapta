@@ -1,47 +1,12 @@
 {
  "user": "WageSapta",
- "fetched_at": "2026-11-14",
+ "fetched_at": "2026-11-15",
  "range": {
-  "from": "2025-11-09",
-  "to": "2026-11-14"
+  "from": "2025-11-16",
+  "to": "2026-11-15"
  },
- "total": 1527,
+ "total": 1462,
  "days": [
-  {
-   "date": "2025-11-09",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-10",
-   "level": 2,
-   "count": 14
-  },
-  {
-   "date": "2025-11-11",
-   "level": 4,
-   "count": 52
-  },
-  {
-   "date": "2025-11-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-13",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-14",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-15",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-11-16",
    "level": 0,
@@ -1859,23 +1824,28 @@
   },
   {
    "date": "2026-11-14",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-15",
    "level": 0,
    "count": 0
   }
  ],
  "stats": {
-  "current": 17,
-  "longest": 17,
-  "last_active": "2026-11-13",
+  "current": 18,
+  "longest": 18,
+  "last_active": "2026-11-14",
   "best": {
-   "date": "2025-11-11",
-   "count": 52
+   "date": "2026-01-06",
+   "count": 47
   }
  },
  "monthly": [
   {
    "month": "2025-11",
-   "count": 67
+   "count": 1
   },
   {
    "month": "2025-12",
@@ -1923,7 +1893,7 @@
   },
   {
    "month": "2026-11",
-   "count": 40
+   "count": 41
   }
  ]
 }
